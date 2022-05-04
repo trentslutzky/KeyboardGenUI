@@ -1,0 +1,16 @@
+{
+  "name": "KeyboardGenUI",
+  "version": "1.0.0",
+  "description": "Web-based GUI for generating split ergo keebs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
